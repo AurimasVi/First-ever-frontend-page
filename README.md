@@ -6,6 +6,6 @@ Stats preview card component
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+This was [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
 **To do this challenge, I used basic HTML and CSS.**
